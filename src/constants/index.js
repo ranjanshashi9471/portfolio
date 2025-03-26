@@ -30,3 +30,10 @@ export const navLinksdata = [
 		link: "contact",
 	},
 ];
+
+export const contactDetails = [
+	{
+		icon: "",
+		link: "",
+	},
+];
