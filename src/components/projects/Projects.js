@@ -21,6 +21,7 @@ const Projects = () => {
 				{projects.map((project, id) => {
 					return (
 						<ProjectsCard
+							key={id}
 							title={project.title}
 							des={project.desc}
 							src={project.img === "" ? projectThree : project.img}

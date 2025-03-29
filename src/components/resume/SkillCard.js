@@ -2,7 +2,6 @@ import React from "react";
 import { motion } from "motion/react";
 
 function SkillCard({ name, eff }) {
-	console.log("eff is" + eff, name);
 	return (
 		<div className="overflow-x-hidden">
 			<p className="text-sm uppercase font-medium">{name}</p>
