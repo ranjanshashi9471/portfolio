@@ -1,15 +1,12 @@
 import React from "react";
-import { AiFillAppstore } from "react-icons/ai";
 import {
-	FaMobile,
-	FaGlobe,
 	FaDatabase,
 	FaRocket,
 	FaCodeBranch,
 	FaReact,
 	FaServer,
 } from "react-icons/fa";
-import { SiProgress, SiAntdesign, SiLinuxcontainers } from "react-icons/si";
+import { SiLinuxcontainers } from "react-icons/si";
 import Title from "../layouts/Title";
 import Card from "./Card";
 

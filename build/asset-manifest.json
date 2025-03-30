@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea8b9e42.css",
+    "main.js": "/static/js/main.2e6972ef.js",
+    "static/media/intercity.png": "/static/media/intercity.827105fab3c040129ff3.png",
+    "static/media/oyohostel.png": "/static/media/oyohostel.4bdbb98a35911ea6a5ca.png",
+    "static/media/shashi-Photoroom.png": "/static/media/shashi-Photoroom.6a325d391dd7a2abbe20.png",
+    "static/media/virtual-diary.png": "/static/media/virtual-diary.19d93c68a221f94f0442.png",
+    "static/media/multiple_system.png": "/static/media/multiple_system.743cbfeb40ebce681918.png",
+    "static/media/Archive(fs).jpg": "/static/media/Archive(fs).feec3d31acfa6c256fc8.jpg",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "index.html": "/index.html",
+    "main.ea8b9e42.css.map": "/static/css/main.ea8b9e42.css.map",
+    "main.2e6972ef.js.map": "/static/js/main.2e6972ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea8b9e42.css",
+    "static/js/main.2e6972ef.js"
+  ]
+}
