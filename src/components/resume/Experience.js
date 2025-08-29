@@ -16,10 +16,16 @@ const Experience = () => {
 				</div>
 				<div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
 					<ResumeCard
-						title="Trainee Engineer"
-						subTitle="Futops Technologies. - (2025 - Present)"
+						title="Software Engineer"
+						subTitle="Leazeon Pvt. Ltd. - (July 2025 - Present)"
 						result="Pune, India"
-						des="As a trainee engineer at Futops Technologies, I am Working with Java Springboot Learning Containerization Technologies and Gaining insights on Designing Robust and Scalable Backend Systems."
+						des="As a Software engineer at Leazeon, I am Working with Dotnet framework, Learning C# Architecture Design and Gaining insights on Designing Scalable Fullstack Systems in Finance Domain."
+					/>
+					<ResumeCard
+						title="Trainee Engineer"
+						subTitle="Futops Technologies India. - (Feb 2025 - June 2025)"
+						result="Pune, India"
+						des="As a trainee engineer at Futops Technologies, I worked with Java Springboot, Python FastApi, SQLAlchemy, MySQL, Docker, GraphQL for Realtime Systems and Designed Robust and Scalable Backend Systems."
 					/>
 					<ResumeCard
 						title="AI & Cloud Virtual Internship"
@@ -31,7 +37,7 @@ const Experience = () => {
 						title="MERN Development Intern"
 						subTitle="Refresh Infratech Pvt. Ltd. - (Oct 2019 - April 2020)"
 						result="Ranchi, India"
-						des="In-depth understanding of Web Technologies(Frontend and Backend), Gained proficiency in designing, deploying, and managing dynamic and responsive Web apps. Strong knowledge of RESTful API’s, and frameworks such as Reactjs. Hands-on experience in Web Development"
+						des="Gained In-depth understanding and Hands-on of Web Technologies(Frontend and Backend), Gained proficiency in designing, and managing dynamic and responsive Web apps. Strong knowledge of RESTful API’s, NoSQL DB(MongoDB) and frameworks such as React.js, Express.js."
 					/>
 				</div>
 			</div>
