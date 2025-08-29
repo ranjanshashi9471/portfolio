@@ -11,7 +11,9 @@ const Experience = () => {
 		>
 			<div className="w-4/6 mx-auto">
 				<div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
-					<p className="text-sm text-designColor tracking-[4px]">2010 - 2022</p>
+					<p className="text-sm text-designColor tracking-[4px]">
+						2023 - ${new Date().getFullYear()}
+					</p>
 					<h2 className="text-3xl md:text-4xl font-bold">Job Experience</h2>
 				</div>
 				<div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
@@ -37,7 +39,7 @@ const Experience = () => {
 						title="MERN Development Intern"
 						subTitle="Refresh Infratech Pvt. Ltd. - (Oct 2019 - April 2020)"
 						result="Ranchi, India"
-						des="Gained In-depth understanding and Hands-on of Web Technologies(Frontend and Backend), Gained proficiency in designing, and managing dynamic and responsive Web apps. Strong knowledge of RESTful API’s, NoSQL DB(MongoDB) and frameworks such as React.js, Express.js."
+						des="Gained In-depth understanding and Hands-on of Web Technologies(Frontend and Backend), Gained proficiency in designing, and managing dynamic and responsive Web apps. Strong knowledge of RESTful API’s, NoSQL(MongoDB) and frameworks such as React.js, Express.js."
 					/>
 				</div>
 			</div>

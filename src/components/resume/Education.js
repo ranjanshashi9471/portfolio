@@ -19,20 +19,20 @@ const Education = () => {
 					<ResumeCard
 						title="Masters in Computer Applications."
 						subTitle="Department of Computer Science, Pune University (2023 - 2025)"
-						result="3.90/4"
-						des="The training provided by universities in order to prepare people to work in Software Engg. sectors of the economy."
+						result="9.15 CGPA"
+						des="During my MCA, I explored a wide range of computer science fundamentals and advanced topics. I focused on problem-solving, functional programming, data structures design, database modeling, core system concepts, and working with Linux-based systems. This strong foundation has shaped my approach to building efficient, scalable, and well-structured software solutions."
 					/>
 					<ResumeCard
 						title="Bachelors - Computer Applications"
 						subTitle="St. Xavier's College, Ranchi (2020 - 2023)"
-						result="4.75/5"
-						des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
+						result="8.28 CGPA"
+						des="I completed my Bachelor's in Computer Applications from St. Xavier's College, Ranchi, where I built a strong foundation in web development, particularly using the MERN stack (MongoDB, Express.js, React, and Node.js). This experience helped me understand full-stack development and end-to-end application building."
 					/>
 					<ResumeCard
 						title="Senior Secondary School Education"
 						subTitle="Chinmaya Vidyalaya, Bokaro (2018 - 2020)"
-						result="5.00/5"
-						des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
+						result="89.6%"
+						des="I completed my 12th from Chinmaya Vidyalaya, Bokaro, where I was introduced to core Java, Java Swing, and MySQL. To strengthen my understanding, I built small projects that helped me apply concepts in real-world scenarios and sparked my interest in software development."
 					/>
 					{/* <ResumeCard
 						title="Secondary School Education"
